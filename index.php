@@ -7,7 +7,7 @@ echo '
   <table align="center">
    <tr>
     <td colspan="3" align="center">
-     <img src="NSXLOGO.png" width="25%" title="NSX Logo" alt="NSX Logo"/>
+     <img src="nsxlogo.png" width="25%" title="NSX Logo" alt="NSX Logo"/>
     </td>
    </tr>
    <tr>
